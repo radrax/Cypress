@@ -8,6 +8,8 @@ describe('template spec', () => {
 
     cy.contains('h2', 'Commands')
 
+  //si mai fac si alte chestii pe aici
+
   });
 
 });
