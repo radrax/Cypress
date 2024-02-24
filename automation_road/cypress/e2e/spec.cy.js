@@ -8,6 +8,8 @@ describe('template spec', () => {
 
     cy.contains('h2', 'Commands')
 
+    //Nu vcreaaa
+
   });
 
 });
